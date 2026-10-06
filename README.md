@@ -10,4 +10,4 @@
 
 ### My GBC email and the URL of my is repo below this line ###
 GBC email: abdul.sheriff@georgebrown.ca
-Your personal repo URL: https://shadow4ar.github.io/comp1238-notes/
+My personal repo URL: https://shadow4ar.github.io/comp1238-notes/
