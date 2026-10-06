@@ -7,3 +7,7 @@
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 
 [COMP1238 Notes](comp1238.md)
+
+### My GBC email and the URL of my is repo below this line ###
+GBC email: abdul.sheriff@georgebrown.ca
+Your personal repo URL: https://shadow4ar.github.io/comp1238-notes/
